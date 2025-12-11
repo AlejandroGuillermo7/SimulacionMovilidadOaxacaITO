@@ -14,8 +14,8 @@ A. Caminos, ``Simulación de semáforos y su aplicación a la circulación de ve
 H. E. Gómez, ``Desarrollo de un modelo de simulación vehicular para la sincronización de semáforos,'' INAOE, Puebla, México, Informe Técnico (tesis/trabajo), 2011. [En línea]. Disponible: https://inaoe.repositorioinstitucional.mx/jspui/bitstream/1009/379/1/GomezHE.pdf  
 
 ## Anexos
-Escenario Base (sin modificaciones) - proyectoSIM
+Escenario Base (sin modificaciones) - proyectoSIM - Video
 https://drive.google.com/drive/folders/1WNPrjsRKg8UL9ZZIpCe7XqadfmU0s6Dg?usp=drive_link
 
-Segundo Escenario (modificado) - proyectoSA
+Segundo Escenario (modificado) - proyectoSA - Video
 https://drive.google.com/drive/folders/1WzX-NOJ5BfJUaYtkt-Fpbq0dy7Ow-3HZ?usp=drive_link
